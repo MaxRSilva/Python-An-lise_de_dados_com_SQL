@@ -48,7 +48,7 @@ Este projeto faz parte de uma prática de aprendizado em análise de dados, com 
 ## 👨‍💻 Autor
 
 Max Ramon da Silva  
-[🔗 LinkedIn](https://www.linkedin.com/in/max-ramon-silva-417922303)  
+[🔗 LinkedIn](https://www.linkedin.com/in/max-ramon-a253141a4)  
 [🔗 GitHub](https://github.com/MaxRSilva)
 
 ---
